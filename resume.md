@@ -9,7 +9,7 @@
 
 ## Summary
 
-I am a Native Android Developer who deeply love **open source**. I am passionate about making **high quality applications** for good user interactions. When i am **artist** smartphone becomes my **canvas**.
+I am a Native Android Developer who deeply love **open source**. I am passionate about making **high quality applications** for good user interactions. Also as a programmer, I also practice Data Structures and Algorithms at [CodeChef](https://www.codechef.com/users/drocgoescode). For the **artist** in me  smartphone is my **canvas**.
 
 
 ## Personal Projects

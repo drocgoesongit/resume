@@ -1,2 +1,2 @@
-# resume
-My resume
+# Resume Repo
+My resume on Github.

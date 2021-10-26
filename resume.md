@@ -9,7 +9,7 @@
 
 ## Summary
 
-I am a Native Android Developer who deeply love **open source**. I am passionate about making **high quality applications** for good user interactions. Also as a programmer, I also practice Data Structures and Algorithms at [CodeChef](https://www.codechef.com/users/drocgoescode). For the **artist** in me  smartphone is my **canvas**.
+I am a Native Android Developer who deeply love **open source**. I am passionate about making **high quality applications** for good user interactions. Also as a programmer, I practice Data Structures and Algorithms at [CodeChef](https://www.codechef.com/users/drocgoescode). For the **artist** in me  smartphone is my **canvas**.
 
 
 ## Personal Projects
@@ -18,7 +18,7 @@ I am a Native Android Developer who deeply love **open source**. I am passionate
 
 * Realtime Chat application with clean and minimal UI interface.
 * With Java as main language and Firebase database.
-* [Figma Wireframes](https://www.figma.com/file/SG8zEUf4OK0DyjACp8X0cG/DrocChat?node-id=0%3A1) and lottie animations.
+* [Figma Wireframes](https://www.figma.com/file/SG8zEUf4OK0DyjACp8X0cG/DrocChat?node-id=10%3A52) and lottie animations.
 
 
 ### **[Mini World](https://github.com/drocgoesongit/MiniWorld)**  

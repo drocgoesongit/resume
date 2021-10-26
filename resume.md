@@ -9,7 +9,7 @@
 
 ## Summary
 
-I am a Native Android Developer who deeply love **open source**. I am an artist and Smartphone is my canvas. I want to develop applications with other developers that will help making our life easier.
+I am a Native Android Developer who deeply love **open source**. I am passionate about making **high quality applications** for good user interactions. When i am **artist** smartphone becomes my **canvas**.
 
 
 ## Personal Projects
@@ -61,7 +61,8 @@ These are languages, tools, and practices to which I have had exposure over the 
 
 ## Education
 
-[M H Saboo Siddik College of Engineering]() B. Tech in Computer Science (2020 - 2024)
+[M H Saboo Siddik College of Engineering](https://www.mhssce.ac.in/)
+ - B. Tech in Computer Science (2020 - 2024)
 
 
 ## Interests

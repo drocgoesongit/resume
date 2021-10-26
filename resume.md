@@ -5,6 +5,7 @@
 - Phone: +91 7249603055
 - Email: [contactnabeelmirza@gmail.com](contactnabeelmirza@gmail.com)
 - GitHub: [drocgoesongit](https://github.com/drocgoesongit)
+- Thane, Maharashtra, **India**
 
 
 ## Summary
